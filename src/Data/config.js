@@ -1,0 +1,1 @@
+export const baseBucketUrl="https://nasenderstorage.blob.core.windows.net/novae"

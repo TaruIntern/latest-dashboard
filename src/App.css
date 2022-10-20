@@ -1,0 +1,22 @@
+a{
+  
+    color: #777 !important;
+    text-decoration: none !important; 
+}
+.sidenav .ant-menu-title-content{
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+}
+.site-dropdown-context-menu {
+  color: #777;
+  background: #f7f7f7;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

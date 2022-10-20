@@ -1,0 +1,9 @@
+.ant-tabs-ink-bar {
+  /* height: 3px !important; */
+  background: #d5daf4 !important;
+  /* padding: 2px 0; */
+  /* border: 2px solid #d5daf4; */
+}
+.ant-tabs-nav:before {
+  /* border-bottom: 2px solid #e4e8ed !important; */
+}

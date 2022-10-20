@@ -1,0 +1,18 @@
+.ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title {
+  height: 30px !important;
+}
+.ant-menu-inline > .ant-menu-item {
+  height: 30px !important;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: transparent !important;
+  font-family: "SF Pro Display",sans-serif !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  color: #3D4255 !important;
+
+}
+
+.ant-tooltip-placement-right{
+  display: none !important;
+}
